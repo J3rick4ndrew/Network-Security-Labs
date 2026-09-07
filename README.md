@@ -1,4 +1,4 @@
-# JerickAndrew-JerickAndrew-Network-Security-Labs
+Network-Security-Labs
 
 
 A collection of hands-on network security experiments focused on understanding network protocols, packet analysis, and detection of suspicious network activity.
