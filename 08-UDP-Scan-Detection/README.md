@@ -1,4 +1,4 @@
-# Lab 08: UDP Scan Detection & ICMP Error Response Analysis
+# Lab 07: UDP Scan Detection & ICMP Error Response Analysis
 
 ## 🎯 Objective
 Analyze non-connection-oriented UDP port scanning mechanics using Nmap (`-sU`), inspect resulting ICMP Destination Unreachable (Port Unreachable) error messages in Wireshark, and define detection signatures for connectionless reconnaissance.
