@@ -1,44 +1,43 @@
-# JerickAndrew-JerickAndrew-Network-Security-Labs
-
+# Network Security Labs
 
 A collection of hands-on network security experiments focused on understanding network protocols, packet analysis, and detection of suspicious network activity.
 
-🎯 Objective
+## 🎯 Objective
 
 Document practical experiments involving:
+- TCP/IP communication
+- Packet analysis
+- Network protocols (DNS, ARP, HTTP/HTTPS)
+- Port scanning & SYN scanning
+- UDP scanning
+- Brute-force detection
 
-TCP/IP communication
-Packet analysis
-Network protocols
-DNS
-ARP
-HTTP/HTTPS
-Port scanning
-SYN scanning
-UDP scanning
-Brute-force detection
+## 🛠️ Tools Used
 
+- Wireshark
+- Nmap
+- Linux Mint
+- Netcat / SSH
+- Snort
 
+## 🧠 Skills Demonstrated
 
-🛠️ Tools Used
+- Packet analysis
+- TCP/IP fundamentals
+- Network traffic analysis
+- Network reconnaissance detection
+- IDS concepts & suspicious traffic identification
 
-Document tools such as:
+## 📂 Lab Index
 
-Wireshark
-Nmap
-Linux
-Netcat
-SSH
-
-
-🧠 Skills Demonstrated
-Packet analysis
-TCP/IP fundamentals
-Network traffic analysis
-Network reconnaissance detection
-IDS concepts
-Protocol analysis
-Suspicious traffic identification
-
-
-
+| Lab ID | Lab Title | Status |
+| :--- | :--- | :--- |
+| 01 | TCP Three-Way Handshake Analysis | 🔄 In Progress |
+| 02 | TCP Flags Analysis | ⏳ Pending |
+| 03 | DNS Analysis | ⏳ Pending |
+| 04 | ARP Analysis | ⏳ Pending |
+| 05 | HTTP/HTTPS Analysis | ⏳ Pending |
+| 06 | TCP Scan Detection | ⏳ Pending |
+| 07 | SYN Scan Detection | ⏳ Pending |
+| 08 | UDP Scan Detection | ⏳ Pending |
+| 09 | Brute-Force Network Detection | ⏳ Pending |
