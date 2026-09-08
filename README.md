@@ -30,7 +30,7 @@ Document practical experiments involving:
 
 ## 📂 Lab Index
 
-| Lab ID | Lab Title |
+| Lab ID | Lab Title | 
 | :--- | :--- | :--- |
 | 01 | TCP Three-Way Handshake Analysis |
 | 02 | TCP Flags Analysis |
