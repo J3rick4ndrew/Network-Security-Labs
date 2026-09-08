@@ -32,12 +32,11 @@ Document practical experiments involving:
 
 | Lab ID | Lab Title | Status |
 | :--- | :--- | :--- |
-| 01 | TCP Three-Way Handshake Analysis | 🔄 In Progress |
-| 02 | TCP Flags Analysis | ⏳ Pending |
-| 03 | DNS Analysis | ⏳ Pending |
-| 04 | ARP Analysis | ⏳ Pending |
-| 05 | HTTP/HTTPS Analysis | ⏳ Pending |
-| 06 | TCP Scan Detection | ⏳ Pending |
-| 07 | SYN Scan Detection | ⏳ Pending |
-| 08 | UDP Scan Detection | ⏳ Pending |
-| 09 | Brute-Force Network Detection | ⏳ Pending |
+| 01 | TCP Three-Way Handshake Analysis |
+| 02 | TCP Flags Analysis |
+| 03 | DNS Analysis | 
+| 04 | HTTP/HTTPS Analysis |
+| 05 | ARP Analysis  | 
+| 06 | TCP Scan Detection |
+| 07 | UDP Scan Detection |
+| 08 | Brute-Force Network Detection |
